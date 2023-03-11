@@ -1,0 +1,22 @@
+.logo__link {
+  display: flex;
+  height: 44px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.logo__link:hover {
+  text-decoration: none;
+}
+
+.logo__text {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  margin-left: 24px;
+  font-weight: 700;
+  /* text-transform: uppercase; */
+  font-size: 32px;
+  line-height: 48px;
+  color: indianred;
+}

@@ -1,0 +1,27 @@
+.photo-container {
+  height: auto;
+  width: 1280px;
+  display: flex;
+  align-items: center;
+}
+.photos {
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  margin-right: 0;
+}
+.swiper-container {
+  height: auto;
+  width: 1280px;
+  margin: 0;
+  padding: 0;
+}
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

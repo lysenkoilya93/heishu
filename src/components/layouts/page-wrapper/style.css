@@ -1,0 +1,8 @@
+.page-wrapper__main {
+  width: 1280px;
+  /* width: 1519px; */
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  padding-bottom: 80px;
+}
